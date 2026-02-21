@@ -1,0 +1,8 @@
+Add this to `application.properties`
+
+```
+spring.datasource.driverClassName=org.postgresql.Driver
+spring.datasource.url=jdbc:postgresql://localhost:5432/testdb
+spring.datasource.username=postgres
+spring.datasource.password=password
+```
